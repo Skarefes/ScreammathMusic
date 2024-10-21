@@ -1,4 +1,5 @@
 Sistema de Gerenciamento de Músicas e Artistas! 🎶
+
 Projeto utilizando Java, Spring Boot, JPA e PostgreSQL. Com este sistema de forma simples, é possível cadastrar artistas e músicas, além de realizar buscas por músicas e artistas de maneira eficiente.
 
 💻 Funcionalidades:
